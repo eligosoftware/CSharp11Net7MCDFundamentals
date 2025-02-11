@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int z;
+// int z;
 Console.WriteLine("Hello, World!");
-throw new Exception();
+// throw new Exception();
