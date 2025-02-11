@@ -1,6 +1,9 @@
 # Ignore all bin and obj folders inside Chapter1 and its subfolders
-/**/bin/
-/**/obj/
+Chapter01/**/bin/
+Chapter01/**/obj/
+
+Chapter02/**/bin/
+Chapter02/**/obj/
 
 # Ignore any temporary build artifacts
 *.exe
