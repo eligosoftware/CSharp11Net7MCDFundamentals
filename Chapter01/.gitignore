@@ -1,0 +1,21 @@
+# Ignore all bin and obj folders inside Chapter1 and its subfolders
+Chapter1/**/bin/
+Chapter1/**/obj/
+
+# Ignore any temporary build artifacts
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Ignore Visual Studio files (if applicable)
+.vscode/
+*.user
+*.suo
+*.cache
+*.ncb
+*.csproj.user
+
+# Ignore Resharper and Rider cache files
+*.sln.cache
+.idea/
